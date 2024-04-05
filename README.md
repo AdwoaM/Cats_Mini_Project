@@ -53,6 +53,12 @@ Complete each of the following steps:
 
 17. Use a conditional statement with the `if` keyword to check if the selected cat can be purchased. This statement will check if the `ether` variable that we created&mdash;that is, the account balance&mdash;is greater than or equal to the `cat_price`.
 
+## Preview of cat_shop Streamlit App
+
+[streamlit_cat_shop.webm](https://github.com/AdwoaM/Cats_Mini_Project/assets/149966206/9147f169-5ae4-4baa-8187-fcb1ffc632f3)
+
+
 ---
+
 
 © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
